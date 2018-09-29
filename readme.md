@@ -1,4 +1,4 @@
-**This a spring boot application with H2 embedded DB**
+**This is a spring boot application with H2 embedded DB**
 
 **before you run:**
 edit the path to csv file in src/main/resources/application.properties
